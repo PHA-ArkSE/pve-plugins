@@ -1,9 +1,0 @@
-{
-  "structures": [
-    "APrimalStructureExplosive",
-    "FPlacementData",
-    "FBPNetExecParams",
-    "ADroppedItemEgg",
-    "APrimalBuff"
-  ]
-}
